@@ -1,6 +1,6 @@
 # CANable Lite
 
-<p>USB-C to CAN adapter at low cost</p>
+<p>USB-C to CAN adapter at low cost but high speed CAN FD up to 5Mbit/s</p>
 
 <p>The CANable Lite from Lab4450.com is a variant of CANable. It is heavily based on MKS Canable Pro that is also a clone from Canable Pro from Protofusion that is also a hardware clone of Eric Evenchick&#39;s CANtact project.<br />
 Eric also developed cantact-app, canard, and most of the other awesome tools that work with the CANable and CANtact devices.</p>
