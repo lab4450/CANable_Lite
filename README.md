@@ -9,9 +9,12 @@ Eric also developed cantact-app, canard, and most of the other awesome tools tha
 
 <ul>
 	<li>STM32G0B1CBT6</li>
+	<li>8Mhz Crystal</li>
 	<li>TJA1043T/1J</li>
 	<li>USB-C</li>
 	<li>2 mounting holes for m3 screws</li>
+	<li>BOOT and TERM jumper</li>
+	<li>RST button</li>
 	<li>flashed with candlelight</li>
 </ul>
 
