@@ -15,6 +15,7 @@ Eric also developed cantact-app, canard, and most of the other awesome tools tha
 	<li>2 mounting holes for m3 screws</li>
 	<li>BOOT and TERM jumper</li>
 	<li>RST button</li>
+	<li>ESD protection</li>
 	<li>flashed with candlelight</li>
 </ul>
 
